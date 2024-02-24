@@ -1,0 +1,14 @@
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\bin\Debug\net6.0\Jenkinspizza.exe
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\bin\Debug\net6.0\Jenkinspizza.deps.json
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\bin\Debug\net6.0\Jenkinspizza.runtimeconfig.json
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\bin\Debug\net6.0\Jenkinspizza.dll
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\bin\Debug\net6.0\Jenkinspizza.pdb
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\Jenkinspizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\Jenkinspizza.AssemblyInfoInputs.cache
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\Jenkinspizza.AssemblyInfo.cs
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\Jenkinspizza.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\Jenkinspizza.dll
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\refint\Jenkinspizza.dll
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\Jenkinspizza.pdb
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\Jenkinspizza.genruntimeconfig.cache
+C:\Users\sss\source\repos\Jenkinspizza\Jenkinspizza\obj\Debug\net6.0\ref\Jenkinspizza.dll
